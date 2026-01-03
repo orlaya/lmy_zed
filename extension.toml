@@ -1,0 +1,11 @@
+id = "lmy"
+name = "LMY"
+description = "LMY config language for the Lume ecosystem"
+version = "0.0.1"
+schema_version = 1
+authors = ["Sarah Hawkless <your@email.com>"]
+repository = "https://github.com/your-repo/lmy"
+
+[grammars.lmy]
+repository = "file:///Users/sarahhawkless/Library/CloudStorage/Dropbox/dev/plume/___lmy__tree"
+commit = "HEAD"
