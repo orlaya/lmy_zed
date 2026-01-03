@@ -1,11 +1,11 @@
 id = "lmy"
-name = "LMY"
-description = "LMY config language for the Lume ecosystem"
+name = "lmy"
+description = "lmy"
 version = "0.0.1"
 schema_version = 1
-authors = ["Sarah Hawkless <your@email.com>"]
-repository = "https://github.com/your-repo/lmy"
+authors = ["Sarah Hawkless <abc@xyz.com>"]
+repository = "https://github.com/orlaya/lmy_zed"
 
 [grammars.lmy]
-repository = "file:///Users/sarahhawkless/Library/CloudStorage/Dropbox/dev/plume/___lmy__tree"
-commit = "HEAD"
+repository = "https://github.com/orlaya/lmy_tree"
+commit = "ddd86608eb17b4bdf2af37056b1d940ea36037b5"
