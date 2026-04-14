@@ -8,4 +8,4 @@ repository = "https://github.com/orlaya/lmy_zed"
 
 [grammars.lmy]
 repository = "https://github.com/orlaya/lmy_tree"
-commit = "499265900cf001acc637f3e0c0f1c84983c03083"
+commit = "e03f6cb6e6c5e090e416ca7c36d725eb6f41fcbe"
